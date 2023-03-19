@@ -1,0 +1,10 @@
+on: push
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test
+        run: |
+          echo $OPENAI_KEY
+        env:
+          OPENAI_KEY: ${{ OPENAI_KEY }}
