@@ -1,6 +1,6 @@
-# [**HendyHealth**](https://banzay700.github.io/StepProject-HendyHealth/)
+# [**HendyHealth**](https://igormilya.github.io/Step-Project-HendyHealth/)
 
-[**HendyHealth**](https://banzay700.github.io/StepProject-HendyHealth/) is a program designed for clinic administrators to register new visitors. The program allows the user to add, delete, and edit records of patients or visitors to the clinic. All data recorded in the application is stored in a database on the server.
+[**HendyHealth**](https://igormilya.github.io/Step-Project-HendyHealth/) is a program designed for clinic administrators to register new visitors. The program allows the user to add, delete, and edit records of patients or visitors to the clinic. All data recorded in the application is stored in a database on the server.
 
 The application is designed to be user-friendly and intuitive. The user interface is clean and well organized, with all the necessary functions and features easily accessible from the main dashboard.
 
