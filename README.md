@@ -30,7 +30,7 @@ The application is designed to be user-friendly and intuitive. The user interfac
 
 [**Ihor Milevskyi**](https://github.com/IgorMilya)
 
-- Implemented a modal window where you can check in for a doctor’s appointment. Moreover, added input data validation for all visit creation options. In addition, I've created the "Edit" function (button) with which you can edit your appointment and accomplished a live search filter.
+- Implemented a modal window where you can check in for a doctor’s appointment. Moreover, added input data validation for all visit creation options. In addition, I've created the "Edit" function (button) with which you can edit your appointment, a live search filter and accomplished support chat based on Chat GPT.
 
 [**Ivan Basiuk**](https://github.com/IvanBasss)
 
